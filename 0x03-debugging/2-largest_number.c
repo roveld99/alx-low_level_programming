@@ -1,3 +1,4 @@
+#include <studio.h>
 #include "main.h"
 
 /**
@@ -14,15 +15,15 @@ int largest;
 
 if (a >= b && a >= c)
 {
-printf("%d is the largest number\n", largest);
+largest = a;
 }
 else if (b >= a && b >= c)
 {
-printf("%d is the largest number\n", largest);
+largest = b;
 }
 else
 {
-printf("%d is the largest number\n", largest);
+largest = c;
 }
 
 return (largest);
