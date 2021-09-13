@@ -14,3 +14,6 @@ File: 7-print_chessboard.c Writes a function that prints the chessboard.
 
 File: 8-print_diagsums.c Writes a function that prints the sum of the two diagonals of a square matrix of integers.
 
+File: 100-set_string.c Writes a function that sets the value of a pointer to a char.
+
+File: 101-crackme_password Creates a file that contains the password for the crackme2 executable.
