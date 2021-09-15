@@ -7,10 +7,12 @@
  */
 int main(void)
 {
-	int n;
+	int num;
 
-	if (num == 0 && num <= 9; n++)
-		printf("%d\n", n);
+	for (num = 0; num < 10; num++)
+		printf("%d", num);
+
+	printf("\n");
 
 	return (0);
 }
